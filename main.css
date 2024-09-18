@@ -6,7 +6,7 @@ body {
     background-color: #e15f41;
 }
 
-.nav .nav-link .active {
+.nav .nav-link.active {
     background-color: #fff;
     color: #e15f41;
 }
